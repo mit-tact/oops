@@ -16,8 +16,8 @@ class Base{
 $obj= new Base;
 $obj->basefun();  //calling local class
 
-$obj= new Ctrl;
-$obj->basefun(); 
+/*$obj= new Ctrl;
+$obj->basefun(); */ 
 //or
 //$obj= new Ctrl\Base();
 $obj= new Ctrl\Base;

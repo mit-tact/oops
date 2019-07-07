@@ -69,7 +69,7 @@
 					</div>
 					<div class="datepicker-wrap col-md-2 mb-2 pull-left">
 						<label class="label">تاريخ الوصول</label>	
-						<input id="check-in" type="mobile">
+						<input id="check-in" type="text">
 						<i class="fa fa-calendar" aria-hidden="true"></i>
 					</div>
 					<div class="datepicker-wrap col-md-2 mb-2 pull-left">
@@ -80,6 +80,8 @@
 					<div class="col-md-3 mb-3 pull-left">
 						<label class="label">المسافرين</label>	
 						<select class="travelers">
+							<option value="1">1 غرفة - 1 شخص بالغ - 0 طفل</option>
+							<option value="2">1 غرفة - 2 شخصان بالغان - 0 طفل</option>
 							<option value="3">خيارات أخرى</option>
 						</select>
 					</div>
