@@ -55,6 +55,7 @@
 
 	
 <div class="intro">
+	<div>Tis is edit on the page to check the edit in commit</div>
 	<div class="slideshow home-slideshow">
 	</div>
 	<a href="#" class="open-panel">احجز رحلتك الان</a>
