@@ -55,7 +55,7 @@
 
 	
 <div class="intro">
-	<div>What is this!</div>
+	<div>What is this![Upraded]</div>
 	<div class="slideshow home-slideshow">
 	</div>
 	<a href="#" class="open-panel">احجز رحلتك الان</a>
