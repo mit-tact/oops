@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'HelveticaNeueReg';
+    src: url('fonts/HelveticaNeueW23forSKY-Reg.ttf'),
+      url('fonts/HelveticaNeueW23forSKY-Reg.eot'),
+       url('fonts/HelveticaNeueW23forSKY-Reg.woff'),  
+     url('fonts/HelveticaNeueW23forSKY-Reg.svg');
+}
+@font-face {
+    font-family: 'HelveticaNeueBold';
+    src: url('fonts/HelveticaNeueW23forSKY-Bd.ttf'),
+      url('fonts/HelveticaNeueW23forSKY-Bd.eot'),
+       url('fonts/HelveticaNeueW23forSKY-Bd.woff'),  
+     url('fonts/HelveticaNeueW23forSKY-Bd.svg');
+}
+
+@font-face {
+    font-family: 'GESSTOW_Medium';
+    src: url('fonts/GE_SS_Two_Medium.eot');
+    src: url('fonts/GE_SS_Two_Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GE_SS_Two_Medium.woff') format('woff'),
+         url('fonts/GE_SS_Two_Medium.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GESSTOW_Light';
+    src: url('fonts/GE_SS_Two_Light.eot');
+    src: url('fonts/GE_SS_Two_Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GE_SS_Two_Light.woff') format('woff'),
+         url('fonts/GE_SS_Two_Light.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GESSTOW_bold';
+    src: url('fonts/GE_SS_Two_Bold.eot');
+    src: url('fonts/GE_SS_Two_Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GE_SS_Two_Bold.woff') format('woff'),
+         url('fonts/GE_SS_Two_Bold.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

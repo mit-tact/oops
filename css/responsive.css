@@ -1,0 +1,433 @@
+/*
+Theme Name: OTLAAT
+Theme URI: https://www.otlaat.com
+Author: Ayed CHOKRI
+Author URI: 
+*/
+
+@media screen and (max-width: 1000px) {
+}
+@media screen and (max-width: 768px) {
+	html {
+		
+     overflow-x: hidden;
+	}
+	header.header .logo {
+		float: inherit;
+		text-align: center;
+		margin: 5px 0;
+	}
+	.lds-ripple .img {
+		background-size: 75%;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+	.mainMenu {
+		width: 100%;
+		clear: both;
+		display: none;
+		top: 78px;
+		right: 0;
+	}
+	.mainMenu ul li a {
+		text-align: right;
+	}
+	.mainMenu ul li {
+		float: right;
+		width: 100%;
+		text-align: center;
+	}
+	.mainMenu ul li a:after {
+		display: none;
+	}
+	.mainMenu ul.menuOtlaat {
+		float: right;
+		margin-top: 0;
+		padding-bottom: 20px;
+	}
+	.mainMenu ul.navLog {
+		float: inherit;
+	}
+	.mainMenu ul li.register-btn a {
+		background: none;
+		border: none;
+	}
+	.search-panel-wrapper {
+		position: absolute;
+		margin-top: 0;
+		margin-right: 0;
+		right: 0;
+		width: 100%;
+		background: #036180;
+		padding: 10px 20px;
+		top: 0;
+		color: #fff;
+		bottom: inherit;
+	}
+	.best-hotel-wrapper {
+		margin: 90px 0;
+	}
+	.best-hotel-wrapper .item-hotel.large-item {
+		width: 100%;
+	}
+	.best-hotel-wrapper .item-hotel {
+		width: 100%;
+	}
+	.best-hotel-wrapper div.title h3 {
+		width: initial;
+	}
+	#best-countries h3.title {
+		width: initial;
+	}
+	.section.otl_areas .item-areas .caption {
+		text-align: center;
+	}
+	.search-panel-wrapper {
+		display: none;
+	}
+	.prices-main-wrapper .item-prices {
+		text-align: center;
+	}
+	.tips-main-wrapper {
+		padding-right: 0;
+		text-align: center;
+	}
+	.section-hotels .item-hotel {
+		text-align: center;
+	}
+	.section-hotels .item-hotel .price_infos {
+		text-align: center;
+	}
+	.restaurants-main-wrapper ,
+	.contentPage div.section.section-articles,
+	.malls-main-wrapper {
+		text-align: center;
+	}
+	.section-articles .item-article {
+		padding: 20px 50px;
+	}
+	.section-articles .item-article .description {
+		margin: 20px;
+	}
+	body.single-countries .related-posts-wrapper .widget .widget-content > div {
+		width: 100%;
+		margin-left: 0;
+	}
+	.search-panel-wrapper .close-panel {
+		display: block;
+		color: #fff;
+		z-index: 999;
+		position: absolute;
+		left: 40px;
+		top: 10px;
+		border: 2px solid #fff;
+		padding: 5px;
+		height: 30px;
+		width: 30px;
+		text-align: center;
+		line-height: 20px;
+	}
+	.search-panel-wrapper .search-panel-content {
+		padding-top: 20px;
+	}
+	.slideshow .item-slide {
+		padding: 135px 0 0 0;
+	}
+	.open-panel {
+		display: block;
+		position: absolute;
+		bottom: 75px;
+		width: 200px;
+		right: 50%;
+		margin-right: -100px;
+		text-align: center;
+		border: 2px solid white;
+		color: #fff;
+		padding: 5px;
+		font-size: 20px;
+		background: rgba(255, 255, 255, 0.2);
+	}
+	.open-panel:hover {
+		color: #fff;
+	}
+	.slideshow h2 {
+		font-size: 45px;
+	}
+	.navBar li {
+		float: right;
+		margin: 0 10px;
+		width: 100%;
+		text-align: center;
+	}
+	.post-content div {
+		max-width: 100%;
+	}
+	body.single-countries .slideshow .item-slide {
+		padding: 100px 0 0 0;
+	}
+	.testimonials-section .content {
+		margin: 0;
+		padding: 0;
+	}
+	.testimonials-section .content i {
+		right: 0;
+		top: -20px;
+	}
+	.testimonials-section .thumbnail {
+		margin-bottom: 30px;
+	}
+	.schedule-section {
+		margin-left: 0;
+	}
+	.weather-main-wrapper {
+		margin-top: 0;
+		border: 0;
+	}
+	.infos-countries-wrapper {
+		margin: 0;
+	}
+	.item-map {
+      margin-bottom: 20px;		
+	}
+	.weather-wrapper {
+		padding: 20px 70px 0 20px;
+		background: #ff891e;
+		margin: 0;
+	}
+	.infos-squares-section .item-infos .value {
+		border-top: 1px solid #ef7d17;
+		padding-top: 10px;
+	}
+	.distances-section {
+		margin-top: 0;
+		padding-top: 45px;
+		margin-right: 0;
+	}
+	.archive-articles-page .list-articles article .item-thumb {
+		width: 100%;
+		margin-left: 0;
+		float: right;
+		margin-bottom: 20px;
+	}
+	.archive-articles-page .list-articles article .article-item-content {
+		float: right;
+		width: 100%;
+	}
+	.navBarWrapper {
+		display: none;
+	}
+	.testimonials-section .thumbnail {
+		margin-bottom: 0;
+		float: inherit;
+		text-align: center;
+	}
+	.testimonials-section .details h2 {
+		padding-top: 20px;
+		font-size: 18px;
+		color: #076b8c;
+		text-align: center;
+		padding-bottom: 60px;
+	}
+	.search-country-wrapper .form-search-country-wrapper button i {
+		display: none;
+	}
+	#sidebar .widget .widget-title {
+		margin-left: -20px;
+	}
+	.section-countries-cat .countries-item {
+		width: 100%;
+		margin: 0;
+		background-size: cover;
+	}
+	.section-countries-cat .section-countries-cat-head {
+		margin: 0;
+	}
+	.slideshow h2 {
+		font-size: 26px;
+		margin-bottom: 5px;
+	}
+	.slideshow h3 {
+		text-align: center;
+		font-size: 16px;
+	}
+	.best-page-wrapper .item-best {
+		width: 100%;
+		margin: 0;
+	}
+	.breadcrumb-wrapper {
+		display: none;
+	}
+	.program_list_wrapper .item-program span.number {
+		position: absolute;
+		right: -6px;
+		background: #d43f3a;
+		color: #fff;
+		display: block;
+		text-align: center;
+		height: 30px;
+		line-height: 30px;
+		width: 40px;
+		font-size: 14px;
+		border-radius: 5px;
+		border: 2px solid #f1f1f1;
+		top: -10px;
+		font-family: 'HelveticaNeueBold', sans-serif;
+	}
+	.home-form-search-wrapper {
+		margin-top: 8px;
+		position: absolute;
+		top: 40%;
+		width: 88%;
+		right: inherit;
+		margin: 0;
+	}
+	.home-form-search-wrapper input[type="text"] {
+		width: 100%;
+	}
+	.home-form-search-wrapper select {
+		width: 100%;
+		margin-top: 20px;
+	}
+	header.header {
+		height: 78px;
+	}
+	header.header .logo img {
+		height: 45px;
+		margin-top: 5px;
+	}
+	.home-form-search-wrapper button {
+		background: #ff891e;
+		border: none;
+		color: #fff;
+		position: relative;
+		left: 0;
+		cursor: pointer;
+		height: 40px;
+		margin-top: 30px;
+		float: left;
+		width: 80px;
+		border-radius: 4px;
+	}
+	.widget-home .widget .widget-content .item-article-w {
+		width: 100%;
+		margin-left: 0;
+		height: inherit;
+		padding-bottom: 20px;
+	}
+	.widget-home .widget .widget-content .item-article-w .thumbnail-img img {
+		width: 100%;
+	}
+	.related-posts-wrapper .widget.widget-best-travelpedia .item-travelpedia-w,
+	.related-posts-wrapper .widget.widget-best-best .item-best-w,
+	.related-posts-wrapper .widget.widget-best-guide .item-article-w,
+	.related-posts-wrapper .widget.widget-best-articles .item-article-w {
+		width: 48%;
+		margin-left: 2%;
+	}
+	.thumbnail-img img {
+		width: 100%;
+	}
+	.menuBtn.mainM_t {
+		position: fixed;
+		top: 15px;
+		right: 0;
+		font-size: 26px;
+		color: #ffffff;
+		text-align: center;
+		border-radius: 4px;
+		padding-top: 5px;
+		width: 45px;
+		background: none;
+	}
+	a.searchBtn {
+		position: fixed;
+		top: 20px;
+		left: 20px;
+		font-size: 26px;
+		color: #fff;
+		right: inherit;
+	}
+	.contact-infos-online {
+		display: none;
+	}
+	.filters.isotop-filters {	
+		text-align: center !important;
+	}
+	.filters.isotop-filters li {
+		display: inline-block;
+		margin-bottom: 10px;
+	}
+	.ms-slide {
+	    opacity: 0;
+	}
+	.ms-slide.ms-sl-selected {
+	    opacity: 1;
+	}
+	#counter-infos .item {
+		text-align: center;
+		color: #fff;
+		margin-bottom: 60px;
+		border-bottom: 1px solid white;
+		padding-bottom: 60px;
+	}
+	#counter-infos .col-md-2:last-child .item {
+		border-bottom: none;
+	}
+	#posts-wrapper .widget.widget-best-article .item-article-w {
+		margin-bottom: 60px;
+		width: 100%;
+		float: right;
+		margin: 60px 0;
+	}
+	footer.footer .footer-content h4 {
+		text-align: center;
+	}
+	footer.footer ul.social-links {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	footer.footer ul.social-links li {
+		float: inherit;
+		margin-left: 10px;
+		display: inline-block;
+	}
+	.related-posts-wrapper .widget .widget-content > div {
+		width: 100%;
+		float: right;
+		margin-left: 0;
+	}
+	.contact-wrapper .mobile-number {
+		width: 100%;
+		text-align: center;
+	}
+	.contact-wrapper .email {
+		display: inline-block;
+		direction: ltr;
+		font-size: 26px;
+		color: #fff;
+		width: 100%;
+		text-align: center;
+	}
+	.hidden-mobile {
+		display: none;
+	}
+	#best-countries .item-country-w .content-infos {
+		top: 0;
+	}
+	#best-countries .item-country-w .content-img {
+		bottom: -40px;
+	}
+	#best-countries .item-country-w a.overlay-bg {
+		-ms-transform: scale(1);
+		-moz-transform: scale(1);
+		-webkit-transform: scale(1);
+		-o-transform: scale(1);
+		transform: scale(1);
+		opacity: .5;
+	}
+	.contentPage div.section.maps-section .item-map img {
+		width: 100%;
+		height: inherit;
+	}
+}
+@media screen and (max-width: 450px) {}
